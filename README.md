@@ -6,4 +6,3 @@
 - 💬 Ask me about Web and App development
 - 📫 How to reach me: pantamanee145@gmail.com
 - 😄 Pronouns: ma-ne-ta
-- ⚡ Fun fact: No Fun while doing coding 😄😄😄.
