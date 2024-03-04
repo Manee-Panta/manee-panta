@@ -4,10 +4,10 @@
 <div align='center'>
 <h1><strong > Hi there, I'm Manita Panta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></strong> </h1> 
 <div align="center">
-  <img height="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562"   />
+  <img height="200" src="https://i.pinimg.com/564x/81/bd/4b/81bd4b29a1c1e2c3cc9d22c8742505fe.jpg"   />
 </div>
 </div>
-<br>
+
 
 ### :woman_technologist: &nbsp;About Me :
 - I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
@@ -18,7 +18,7 @@
 - 😄 Pronouns: ma-ne-ta
 <br>
 
-### Connect with me on
+### 🌐 Connect with me on
 <p>
 <a target="_blank" href="www.linkedin.com/in/esraa-ali-2754a61b0
 "><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
